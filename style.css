@@ -34,6 +34,7 @@ main{
     gap: 1rem;
     padding: 2rem;
     background-color: hsl(0, 0%, 100%);
+    
 }
 
 main img{
@@ -143,7 +144,7 @@ main .nutrition_container div div span {
 
     main{
         width: 700px;
-        border-radius: 12px;
+        border-radius: 15px;
     }
     
     main .simple_container img {
